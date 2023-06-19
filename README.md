@@ -67,3 +67,8 @@
         Sudo: $cmnd cmd"
 ```
 
+### Users and Passwds:
+
+- Root: slegaris42:*******
+- Mainusr: slegaris:42madrid.com
+- Decrypt: 42madridHelloWorld
